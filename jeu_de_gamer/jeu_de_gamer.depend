@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1543456319 source:c:\users\kaziz\desktop\jeu_de_gamer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"fonction.h"
+
+1543448798 c:\users\kaziz\desktop\jeu_de_gamer\fonction.h
+
+1543482004 source:c:\users\kaziz\desktop\jeu_de_gamer\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<unistd.h>
+	"fonction.h"
+
